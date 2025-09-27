@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm itsjustyuji(vs)
 
-<!--
-**itsjustyuji/itsjustyuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Full-Stack Development** and **AI/ML**.  
+I love building useful projects that connect AI models with real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** ReactJS, Node.js, ExpressJS, Inference.js(huggingface), Transformers.js(huggingface), Pandas, NumPy, Matplotlib  
+- **Databases:** PostgreSQL, Supabase
+- **Tools:** VSCode, Git, Jupyter Notebook, Postman, Canva  
+
+---
